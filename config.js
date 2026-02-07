@@ -44,7 +44,7 @@ const CONFIG = {
     loveMessages: {
         extreme: "ITNA KAISE??!!! 😭✨🖤",  // Shows when they go past 5000%
         high: "Hehe thora zyada to karte ho 😁",              // Shows when they go past 1000%
-        normal: "Bas? 🥺"                           // Shows when they go past 100%
+        normal: "Bas...? 🥺"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
